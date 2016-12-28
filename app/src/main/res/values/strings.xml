@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Bolivar Prime</string>
+
+    <string name="titulo_can_1">Vengo por que te quiero</string>
+    <string name="titulo_can_2">Me voy a ver a Bolivar</string>
+    <string name="titulo_can_3">Señores soy del Bolivar</string>
+    <string name="titulo_can_4">Vamos A K D</string>
+    <string name="titulo_can_5">Bolivarista señores soy yo</string>
+    <string name="titulo_can_6">Bolivarista de corazón</string>
+
+    <string name="letra_can_1">Autor: La Vieja Escuela L.V.E.</string>
+    <string name="letra_can_2">Autor: La Vieja Escuela L.V.E.</string>
+    <string name="letra_can_3">Autor: La Vieja Escuela L.V.E.</string>
+    <string name="letra_can_4">Autor: La Vieja Escuela L.V.E.</string>
+    <string name="letra_can_5">Autor: Jorge Eduardo</string>
+    <string name="letra_can_6">Autor: Jorge Eduardo</string>
+
+
+    <string name="lletra_can_1">Letraaaaaaaaaaaaaaaaaaaaaaaaaadfasdfsd 1</string>
+    <string name="lletra_can_2">Letraaaaaaaaaaaaaaaaaaaaaaaaafasdfasdfsadf 2</string>
+    <string name="lletra_can_3">Letraaaaaaaaaaaaaaaaaaaaaaaaasadfsadfasdfsadfa 3</string>
+    <string name="lletra_can_4">Letraaaaaaaaaaaaaaaaaaaaaaaaasadfsadfasdfsadfa 4</string>
+    <string name="lletra_can_5">Letraaaaaaaaaaaaaaaaaaaaaaaaasadfsadfasdfsadfa 5</string>
+    <string name="lletra_can_6">Letraaaaaaaaaaaaaaaaaaaaaaaaasadfsadfasdfsadfa 6</string>
+
+    <string name="main.btn.play">Play</string>
+    <string name="main.btn.pause">Pause</string>
+    <string name="main.btn.stop">Stop</string>
+
+</resources>

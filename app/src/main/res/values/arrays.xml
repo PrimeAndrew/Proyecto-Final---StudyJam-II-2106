@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titulos">
+        <item>@string/titulo_can_1</item>
+        <item>@string/titulo_can_2</item>
+        <item>@string/titulo_can_3</item>
+        <item>@string/titulo_can_4</item>
+        <item>@string/titulo_can_5</item>
+        <item>@string/titulo_can_6</item>
+    </string-array>
+
+    <string-array name="letras">
+        <item>@string/letra_can_1</item>
+        <item>@string/letra_can_2</item>
+        <item>@string/letra_can_3</item>
+        <item>@string/letra_can_4</item>
+        <item>@string/letra_can_5</item>
+        <item>@string/letra_can_6</item>
+    </string-array>
+
+    <string-array name="lletras">
+        <item>@string/lletra_can_1</item>
+        <item>@string/lletra_can_2</item>
+        <item>@string/lletra_can_3</item>
+        <item>@string/lletra_can_4</item>
+        <item>@string/lletra_can_5</item>
+        <item>@string/lletra_can_6</item>
+    </string-array>
+</resources>
