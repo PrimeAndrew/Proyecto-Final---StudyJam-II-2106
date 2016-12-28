@@ -38,9 +38,9 @@ Corrida previa
     <center>
         <table border="0">
             <tr>
-                <td><img src="https://github.com/PrimeAndrew/Proyecto-Final---StudyJam-II-2106/blob/master/img/gif1.gif" width="250"></td>
-                <td><img src="https://github.com/PrimeAndrew/Proyecto-Final---StudyJam-II-2106/blob/master/img/gif2.gif" width="250"></td>
-                <td><img src="https://github.com/PrimeAndrew/Proyecto-Final---StudyJam-II-2106/blob/master/img/gif3.gif" width="250"></td>
+                <td><img src="https://github.com/PrimeAndrew/Proyecto-Final---StudyJam-II-2106/blob/master/img/cc1.gif" width="250"></td>
+                <td><img src="https://github.com/PrimeAndrew/Proyecto-Final---StudyJam-II-2106/blob/master/img/cc2.gif" width="250"></td>
+                <td><img src="https://github.com/PrimeAndrew/Proyecto-Final---StudyJam-II-2106/blob/master/img/cc3.gif" width="250"></td>
             </tr>
         </table>
     </center>
@@ -72,7 +72,7 @@ Ronald Andrew Aparicio Yañez
 
 Contactos
 ---
-raparicio71@gmail.com
+raparicio71@gmail.com<br>
 [Facebook](https://www.facebook.com/ronald.elim.9) <br>
 [Github](https://github.com/PrimeAndrew)<br>
 
