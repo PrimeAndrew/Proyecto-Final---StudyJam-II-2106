@@ -76,3 +76,7 @@ raparicio71@gmail.com
 
 [Facebook](https://www.facebook.com/ronald.elim.9) <br>
 [Github](https://github.com/PrimeAndrew)<br>
+
+AVISO
+---
+Contactarse con el autor para habilitacion de la app
