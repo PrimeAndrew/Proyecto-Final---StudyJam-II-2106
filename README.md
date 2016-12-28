@@ -38,9 +38,9 @@ Corrida previa
     <center>
         <table border="0">
             <tr>
-                <td><img src="https://github.com/PrimeAndrew/Proyecto-Final---StudyJam-II-2106/blob/master/img/cc1.gif" width="250"></td>
-                <td><img src="https://github.com/PrimeAndrew/Proyecto-Final---StudyJam-II-2106/blob/master/img/cc2.gif" width="250"></td>
-                <td><img src="https://github.com/PrimeAndrew/Proyecto-Final---StudyJam-II-2106/blob/master/img/cc3.gif" width="250"></td>
+                <td><img src="https://raw.githubusercontent.com/PrimeAndrew/Proyecto-Final---StudyJam-II-2106/master/img/cc1.mp4" width="250"></td>
+                <td><img src="https://raw.githubusercontent.com/PrimeAndrew/Proyecto-Final---StudyJam-II-2106/master/img/cc2.mp4" width="250"></td>
+                <td><img src="https://raw.githubusercontent.com/PrimeAndrew/Proyecto-Final---StudyJam-II-2106/master/img/cc3.mp4" width="250"></td>
             </tr>
         </table>
     </center>
