@@ -60,6 +60,7 @@ En este proyecto de utilizáron los siguientes componentes tanto en el `diseño`
 .
 
 **`Funcionalidad:`**
+* DatabaseFirebase para la coneccion a tiempo real.
 * CustomArray adapter para la creacion del ListView de los canticos.
 * Uso de firebase para actualizar en tiempo real los scores.
 .
