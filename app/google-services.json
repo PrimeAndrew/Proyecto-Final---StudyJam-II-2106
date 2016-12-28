@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "994091172072",
+    "firebase_url": "https://bolivar-prime.firebaseio.com",
+    "project_id": "bolivar-prime",
+    "storage_bucket": "bolivar-prime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994091172072:android:c2dfe4523c1078fd",
+        "android_client_info": {
+          "package_name": "com.linux.prime.bolivarprime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994091172072-umrlsibjm7ghadslolrvgknqm5s3u9ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApgHBPhfvrc5lpHi9U_RQ_vc1z-cSeAkA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
