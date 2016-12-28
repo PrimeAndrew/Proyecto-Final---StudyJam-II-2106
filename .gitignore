@@ -38,3 +38,5 @@ project.properties
 # Archivos Gradle de Construccion.
 .gradle
 build/
+app/libs/
+app/src/main/res/Anim/

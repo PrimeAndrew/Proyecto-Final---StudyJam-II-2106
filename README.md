@@ -69,7 +69,12 @@ En este proyecto de utilizáron los siguientes componentes tanto en el `diseño`
 
 Autor
 ---
-Ronald Andrew Aparicio Yañez
+<h2>Ronald Andrew Aparicio Yañez</h2>
+<div align="center">
+    <center>
+        <img src="https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-9/14590323_1803765683199566_1519644968206131142_n.jpg?oh=d9e9e0503f265da77c7a32564aedb3f7&oe=58DE7D40" width="100px"/>
+    </center>
+</div>
 
 Contactos
 ---
@@ -77,6 +82,10 @@ raparicio71@gmail.com<br>
 [Facebook](https://www.facebook.com/ronald.elim.9) <br>
 [Github](https://github.com/PrimeAndrew)<br>
 
-AVISO
+Universidad
 ---
-Contactarse con el autor para habilitacion de la app
+<div align="center">
+    <center>
+        <img src="http://lpz.ucb.edu.bo/Forms/RecursosMultimedia/Logos2016/DosLogos.jpg" width="400px"/>
+    </center>
+</div>

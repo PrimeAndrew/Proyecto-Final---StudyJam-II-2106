@@ -27,6 +27,6 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
     public void acerca (View view){
-        Toast.makeText(getApplicationContext(), "CREADO POR: Ronald Aparicio - /*prime*/", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(), "CREADO POR: Ronald Aparicio - /*prime*/ U.C.B.", Toast.LENGTH_LONG).show();
     }
 }
